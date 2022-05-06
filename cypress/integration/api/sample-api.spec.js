@@ -1,3 +1,6 @@
+import CypressPiloto from '../../Page Object Model/Page Object Model';
+// Ruta desde este archivo hasta el archivo donde tengo mis clases (sin la extension .js)
+
 /// <reference types="cypress" />
 import { httpMethods } from '../../utils/enums/httpMethods';
 import { URL } from '../../utils/enums/url';
